@@ -1,6 +1,5 @@
 import React from "react";
 import "../styles/Footer.css";
-import pdf from "../assets/pdf/Resume.pdf";
 
 function Footer() {
   return (
