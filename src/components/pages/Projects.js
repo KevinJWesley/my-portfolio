@@ -1,9 +1,9 @@
 import React from "react";
 import "./styles/Projects.css";
-import img1 from "../../assets/images/recipe2.png";
-import img2 from "../../assets/images/yoda2.png";
-import img3 from "../../assets/images/scheduler.png";
-import img4 from "../../assets/images/weather.png";
+import img1 from "../../../public/assets/images/recipe2.png";
+import img2 from "../../../public/assets/images/yoda2.png";
+import img3 from "../../../public/assets/images/scheduler.png";
+import img4 from "../../../public/assets/images/weather.png";
 import { Container, Card, Col, Row } from "react-bootstrap";
 
 // need to push in four ex from github

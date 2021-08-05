@@ -13,8 +13,9 @@ function About() {
         <Row>
           <div className="aboutText">
             <p>
-              I am a full stack web developer. Interested in design, music and
-              technology.
+              My name is Kevin J Wesley.
+              <br></br>I am a full stack web developer. Interested in design,
+              music and technology.
             </p>
           </div>
         </Row>
