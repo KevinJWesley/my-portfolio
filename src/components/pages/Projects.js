@@ -6,10 +6,9 @@ import img3 from "../../assets/images/scheduler.png";
 import img4 from "../../assets/images/weather.png";
 import { Container, Card, Col, Row } from "react-bootstrap";
 
-// need to push in four ex from github
-// use bootstrap cards??
-// screenshot of project
-// include github and deployed (heroku or git) links
+
+// CHECK FOR WORKING IMAGES
+
 
 function Projects() {
   return (

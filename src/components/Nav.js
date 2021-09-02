@@ -2,6 +2,9 @@ import React from "react";
 
 import "../styles/Nav.css";
 
+// STAND OUT MORE
+// LESS MINIMAL
+
 function Nav({ currentPage, handlePageChange }) {
   return (
     <>

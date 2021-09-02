@@ -19,7 +19,7 @@ function Footer() {
           </a>
         </li>
         <li>
-          <a href="https://docs.google.com/document/d/1ywubEUNicQ23SGIauGyJEj768CZm1wA7yfTsuhKh83E/edit?usp=sharing">
+          <a href="https://docs.google.com/document/d/1rL3La5DTPo-jmn-CuGVJu6oslNrjbMTC/edit?usp=sharing&ouid=117300256813715071933&rtpof=true&sd=true">
             Resume
           </a>
         </li>
