@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.2b7c0b8f.chunk.css",
+    "main.css": "/my-portfolio/static/css/main.250995e3.chunk.css",
     "main.js": "/my-portfolio/static/js/main.6d7c41f8.chunk.js",
     "main.js.map": "/my-portfolio/static/js/main.6d7c41f8.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.6509e99d.js",
@@ -10,7 +10,7 @@
     "static/js/2.8b4ecf9d.chunk.js.map": "/my-portfolio/static/js/2.8b4ecf9d.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
     "static/css/2.d45d6843.chunk.css.map": "/my-portfolio/static/css/2.d45d6843.chunk.css.map",
-    "static/css/main.2b7c0b8f.chunk.css.map": "/my-portfolio/static/css/main.2b7c0b8f.chunk.css.map",
+    "static/css/main.250995e3.chunk.css.map": "/my-portfolio/static/css/main.250995e3.chunk.css.map",
     "static/js/2.8b4ecf9d.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.8b4ecf9d.chunk.js.LICENSE.txt",
     "static/media/recipe2.9ce6759b.png": "/my-portfolio/static/media/recipe2.9ce6759b.png",
     "static/media/scheduler.a1f64080.png": "/my-portfolio/static/media/scheduler.a1f64080.png",
@@ -21,7 +21,7 @@
     "static/js/runtime-main.6509e99d.js",
     "static/css/2.d45d6843.chunk.css",
     "static/js/2.8b4ecf9d.chunk.js",
-    "static/css/main.2b7c0b8f.chunk.css",
+    "static/css/main.250995e3.chunk.css",
     "static/js/main.6d7c41f8.chunk.js"
   ]
 }
