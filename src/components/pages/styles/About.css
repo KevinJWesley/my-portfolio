@@ -7,6 +7,9 @@
   padding: 80px;
   border: 4px solid black;
 }
+.aboutTitle {
+  padding-right: 10px;
+}
 
 .aboutText a {
   text-decoration: none;
